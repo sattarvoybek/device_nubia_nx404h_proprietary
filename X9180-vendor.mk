@@ -18,6 +18,7 @@
 PRODUCT_PACKAGES += \
     libHevcSwDecoder \
     com.qualcomm.location \
+    xtra_t_app \
     QuickBoot \
     TimeService \
     libtime_genoff \
