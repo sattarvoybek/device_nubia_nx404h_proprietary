@@ -327,7 +327,6 @@ PRODUCT_COPY_FILES += \
     vendor/ZTE/X9180/proprietary/vendor/lib/librpmb.so:system/vendor/lib/librpmb.so \
     vendor/ZTE/X9180/proprietary/vendor/lib/libssd.so:system/vendor/lib/libssd.so \
     vendor/ZTE/X9180/proprietary/vendor/lib/libQSEEComAPI.so:system/vendor/lib/libQSEEComAPI.so \
-    vendor/ZTE/X9180/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib/mediadrm/libdrmclearkeyplugin.so \
     vendor/ZTE/X9180/proprietary/vendor/lib/libacdbloader.so:system/vendor/lib/libacdbloader.so \
     vendor/ZTE/X9180/proprietary/vendor/lib/libacdbmapper.so:system/vendor/lib/libacdbmapper.so \
     vendor/ZTE/X9180/proprietary/vendor/lib/libacdbrtac.so:system/vendor/lib/libacdbrtac.so \
