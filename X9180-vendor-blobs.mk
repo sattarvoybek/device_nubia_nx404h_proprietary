@@ -346,8 +346,6 @@ PRODUCT_COPY_FILES += \
     vendor/ZTE/X9180/proprietary/vendor/lib/rfsa/adsp/libfastcvadsp_skel.so:system/vendor/lib/rfsa/adsp/libfastcvadsp_skel.so \
     vendor/ZTE/X9180/proprietary/vendor/lib/rfsa/adsp/libfastcvadsp.so:system/vendor/lib/rfsa/adsp/libfastcvadsp.so \
     vendor/ZTE/X9180/proprietary/vendor/lib/rfsa/adsp/libadsp_denoise_skel.so:system/vendor/lib/rfsa/adsp/libadsp_denoise_skel.so \
-    vendor/ZTE/X9180/proprietary/bin/mpdecision:system/bin/mpdecision \
-    vendor/ZTE/X9180/proprietary/vendor/lib/libqc-opt.so:system/vendor/lib/libqc-opt.so \
     vendor/ZTE/X9180/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/ZTE/X9180/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/ZTE/X9180/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
