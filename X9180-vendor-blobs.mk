@@ -395,3 +395,9 @@ PRODUCT_COPY_FILES += \
     vendor/ZTE/X9180/proprietary/vendor/lib/liblistenjni.so:system/vendor/lib/liblistenjni.so \
     vendor/ZTE/X9180/proprietary/vendor/lib/liblisten.so:system/vendor/lib/liblisten.so \
     vendor/ZTE/X9180/proprietary/vendor/lib/liblistensoundmodel.so:system/vendor/lib/liblistensoundmodel.so \
+    vendor/ZTE/X9180/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
+    vendor/ZTE/X9180/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
+    vendor/ZTE/X9180/proprietary/vendor/lib/libdrmwvmplugin.so:system/vendor/lib/libdrmwvmplugin.so \
+    vendor/ZTE/X9180/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
+    vendor/ZTE/X9180/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
+    vendor/ZTE/X9180/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so
