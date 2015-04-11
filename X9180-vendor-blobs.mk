@@ -101,6 +101,7 @@ PRODUCT_COPY_FILES += \
     vendor/ZTE/X9180/proprietary/vendor/lib/libxtwifi_zpp_adaptor.so:system/vendor/lib/libxtwifi_zpp_adaptor.so \
     vendor/ZTE/X9180/proprietary/vendor/lib/libulp2.so:system/vendor/lib/libulp2.so \
     vendor/ZTE/X9180/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
+    vendor/ZTE/X9180/proprietary/vendor/lib/hw/activity_recognition.msm8226.so:system/vendor/lib/hw/activity_recognition.msm8226.so \
     vendor/ZTE/X9180/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/ZTE/X9180/proprietary/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb:system/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb \
     vendor/ZTE/X9180/proprietary/etc/acdbdata/MTP/MTP_General_cal.acdb:system/etc/acdbdata/MTP/MTP_General_cal.acdb \
